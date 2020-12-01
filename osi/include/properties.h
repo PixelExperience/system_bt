@@ -20,8 +20,8 @@
 
 #include <cstdint>
 
-#define PROPERTY_VALUE_MAX 92
-#define BUILD_SANITY_PROPERTY_VALUE_MAX 92
+#define PROPERTY_VALUE_MAX 151
+#define BUILD_SANITY_PROPERTY_VALUE_MAX 151
 
 // Get value associated with key |key| into |value|.
 // Returns the length of the value which will never be greater than
